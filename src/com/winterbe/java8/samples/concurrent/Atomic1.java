@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.winterbe.java8.samples.concurrent;
 
 import java.util.concurrent.ExecutorService;
@@ -72,7 +71,6 @@ public class Atomic1 {
     }
 
 }
-=======
 package com.winterbe.java8.samples.concurrent;
 
 import java.util.concurrent.ExecutorService;
@@ -146,4 +144,3 @@ public class Atomic1 {
     }
 
 }
->>>>>>> branch 'master' of https://github.com/ehshaheen1/forked-java8-tutorial.git
