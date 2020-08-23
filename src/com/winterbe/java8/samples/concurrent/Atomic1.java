@@ -12,7 +12,7 @@ public class Atomic1 {
 //Testing fork
 // This is my second comment
 //3RD comment
-    //New update 3
+    //New update 4
     private static final int NUM_INCREMENTS = 1000;
 
     private static AtomicInteger atomicInt = new AtomicInteger(0);
